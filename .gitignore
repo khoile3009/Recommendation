@@ -1,0 +1,5 @@
+.env/
+.vscode/
+dataset/
+processed/
+__pycache__/
